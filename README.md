@@ -1,9 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=tgkim's%20Hub&fontSize=60)
+<img width="255" alt="image" src="https://github.com/hotdog7778/hotdog7778/assets/122990436/7e97cea7-46bb-4cac-9692-2e03ab409152">![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=tgkim's%20Hub&fontSize=60)
 
-## 인적사항
+## Intro
+
+* 이름 : 김태균
+* 나이 : 1992년생 (32세)
+* 사는곳 : 서울
 
 
+## Technology Stacks
 
-## 기술
+* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=120&section=footer)
