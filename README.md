@@ -1,4 +1,4 @@
-<img width="255" alt="image" src="https://github.com/hotdog7778/hotdog7778/assets/122990436/7e97cea7-46bb-4cac-9692-2e03ab409152">![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=tgkim's%20Hub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=tgkim's%20Hub&fontSize=60)
 
 ## Intro
 
