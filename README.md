@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=tgkim's%20Hub&fontSize=60)
 
+<div style="text-align: center;">
 
 
 백엔드 개발자로서 취업 준비중 입니다.
@@ -25,4 +26,8 @@ deploy
 
 
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=120&section=footer)
+
+
+</div>
