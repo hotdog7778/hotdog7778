@@ -26,6 +26,7 @@ deploy
 ..
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotdog7778&show_icons=true&theme=radical)
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=120&section=footer)
