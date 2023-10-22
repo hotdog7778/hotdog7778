@@ -10,15 +10,20 @@ Blog | [https://dksl00.tistory.com](https://dksl00.tistory.com/)
 
 Email | rlaxorbs159@gamil.com
 
-Portfolio |
+Portfolio | 
+
+Project 
+---
+새싹인 : https://polydactyl-cello-2db.notion.site/1efa19cb902d448da0a5a11271e66488?pvs=4
+
+
+
 
 <br />
 
+Skill
 ---
 
-<br />
-
-<!-- Language logo-->
 
 ### Lanauage
 
