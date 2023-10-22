@@ -1,35 +1,65 @@
-<div style="text-align: center;">
+<!-- info -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=tgkim's%20Hub&fontSize=60)
 
+## Becoming a developer
 
+Github | https://github.com/hotdog7778
 
-백엔드 개발자로서 취업 준비중 입니다.
+Blog | [https://dksl00.tistory.com](https://dksl00.tistory.com/)
 
-이메일: rlaxorbs159@gmail.com
+Email | rlaxorbs159@gamil.com
 
-포트폴리오: 
+Portfolio |
 
-블로그: https://dksl00.tistory.com
+<br />
 
+---
 
-language
+<br />
 
-..
+<!-- Language logo-->
 
-database
+### Lanauage
 
-..
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 
-deploy
+### Framework
 
-..
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
+### DataBase
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotdog7778&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
+### Deploy
+
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+
+<div align="center">
+
+<br />
+
+---
+
+<br />
+
+<!-- most used language -->
+
+<div style="text-align: left;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotdog7778&layout=compact" />
+</div>
+<br />
+<!-- Github Status -->
+<div style="text-align: left;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hotdog7778&show_icons=true&theme=dracula" />
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=120&section=footer)
 
-
 </div>
+
+<!-- Ref -->
+<!-- icons -->
+<!-- https://github.com/danmadeira/simple-icon-badges -->
