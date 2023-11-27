@@ -14,7 +14,7 @@ Portfolio |
 
 Project 
 ---
-새싹인 : https://polydactyl-cello-2db.notion.site/1efa19cb902d448da0a5a11271e66488?pvs=4
+Node.js 기반 CRUD 게시판 커뮤니티 프로젝트 : https://polydactyl-cello-2db.notion.site/1efa19cb902d448da0a5a11271e66488?pvs=4
 
 
 
